@@ -1,0 +1,6 @@
+/p Resurrecting <t>. <se.#>
+/ac Swiftcast
+/wait 2
+/ac Resurrection <t>
+/ac Raise <t>
+/ac Ascend <t>
