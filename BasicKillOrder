@@ -1,0 +1,7 @@
+/mk attack3 <t>
+/ac "Target Forward"
+/wait 1
+/mk attack2 <t>
+/ac "Target Forward"
+/wait 1
+/mk attack1 <t>
