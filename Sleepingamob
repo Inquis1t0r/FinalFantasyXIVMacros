@@ -1,0 +1,4 @@
+/ac "Sleep"
+/ac "Repose"
+/mk ignore1 <t>
+/p Sleeping <t>, please be aware.
