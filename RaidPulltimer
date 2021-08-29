@@ -1,0 +1,11 @@
+/p Pulling in 10s. <se.#>
+/wait 5
+/p 5 <se.#>
+/wait 1
+/p 4
+/wait 1
+/p 3 <se.#>
+/wait 1
+/p 2 <se.#>
+/wait 1
+/p 1 <se.#>
